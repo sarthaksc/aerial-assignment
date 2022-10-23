@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sarthak/test/smb_ws/devel/.private/smb_gazebo/setup.sh

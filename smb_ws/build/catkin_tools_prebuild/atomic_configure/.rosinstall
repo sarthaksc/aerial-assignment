@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sarthak/test/smb_ws/devel/.private/catkin_tools_prebuild/setup.sh
